@@ -1,0 +1,17 @@
+.IconoInicio {
+		text-align:left;
+		width:30%;
+		height:18px;
+		margin-left:2%;
+		margin-top:0%;
+}
+
+.login {
+	text-align:right;
+	margin-right:2%;
+}
+
+.barralog {
+	background-color:white;
+	height:14%;
+}
